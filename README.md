@@ -2,7 +2,7 @@
 package x;
 import java.util.Random;
 import java.util.Scanner;
- 
+  
 
 public class x {
     //增加名字
